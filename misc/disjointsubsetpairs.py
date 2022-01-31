@@ -1,10 +1,9 @@
 """
 a program to count the possible pairs of disjoint subsets, for Christian
 
-"Let n be a positive integer and define [n] to be the set of the first n
-positive integers. That is, [n] = {1, 2, 3, ... , n}. We want to select two
-disjoint, possibly empty subsets A, B of [n]. In how many ways can we do
-this?"
+"Let n be a positive integer and define [n] to be the set of the first n positive integers. That
+is, [n] = {1, 2, 3, ... , n}. We want to select two disjoint, possibly empty subsets A, B of [n].
+In how many ways can we do this?"
 """
 
 from itertools import chain, combinations, product
