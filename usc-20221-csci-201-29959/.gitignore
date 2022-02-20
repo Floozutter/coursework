@@ -1,0 +1,9 @@
+# Java Archives
+*.jar
+
+# Eclipse (course IDE)
+.settings/
+bin/
+
+# assignment instruction PDFs
+*.pdf
